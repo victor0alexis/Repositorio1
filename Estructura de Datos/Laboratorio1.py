@@ -1,6 +1,6 @@
 # ejercicio 1
 
-import random
+C
 
 """Crear un algoritmo donde se solicite dos matrices por consola. Tanto la cantidad de columnas
 como de filas, deben ser ingresadas por teclado. Los elementos de las matrices deben ser
